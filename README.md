@@ -3,6 +3,7 @@
 
 ⚠️  **Please Read the whole readme file for better understanding. Also I will share some tips and tricks.**
 
+<<<<<<< HEAD
 ## **My  Hardware**
 
 - **CPU**: Intel i3 8100
@@ -40,9 +41,36 @@ I made the installer on Windows using **Olarila** Mojave image & used [Etcher.a
 - Disable only serial port (first option)
 
 Now **Read The More Detailed Installation Guide [Here](https://olarila.com/forum/viewtopic.php?f=50&t=8685).** *(as re-writing the same thing is waste of time)*
+=======
+Reddit: https://www.reddit.com/r/hackintosh/comments/b7l2gx/success_gigabyte_b360m_d3h_intel_core_i36100k_amd/
 
-### Post Installation
+- CPU: Intel i3 8100 
+- Motherboard: Gigabyte B360M-D3H 
+- Memory: Crucial DDR4 8GB x 2 
+- GPU: Gigabyte Radeon RX 560 4GB OC
+- Power supply: Gigabyte GP-PB500
+- Case: Cooler Master Masterbox Q300L
+- SSD: Crucial MX500 8GB x 2
 
+### What's Working?
+Everything.
+
+### Install Guide
+Reddit Vanilla install: https://www.reddit.com/r/hackintosh/comments/9i2ntq/vanilla_guide_make_macosx_installer_from_windows/ + some custom tweaked EFI
+
+### Additional bios Settings: 
+	•	Load optimised default 
+	•	Disable CSM 
+	•	Disable Fast 
+	•	Enable Internal Graphics & VT-D 
+	•	Disable only serial port (first option) 
+
+After Installing MacOS on your system copy my clover folder to your EFI Partition and Open the config.plist make sure you set the following:
+- SerialNumber
+- BoardSerialNumber
+- SmUUID
+
+**Also Depending on your CPU Choose the Right SMBIOS.**
 After Installing MacOS on your system copy my clover folder to your EFI Partition and Open the config.plist make sure you do the following:
 
 - Set SMBIOS to **iMAC 18'2** or **iMAC 19'2** for i3-8100 (*Depending on your CPU Choose the Right SMBIOS)*
