@@ -1,14 +1,6 @@
-
 #Hackintosh Mojave Installation Guide for Gigabyte B360M D3H Hackintosh & Clover EFI Folder
 
 ⚠️  **Please Read the whole readme file for better understanding. Also I will share some tips and tricks.**
-
-<<<<<<< HEAD
-## **My  Hardware**
-
-- **CPU**: Intel i3 8100
-- **GPU**: Sapphire Radeon RX 560 4GB
-- **Motherboard**: Gigabyte B360M-D3H
 
 ### **What's Working?**
 
@@ -20,29 +12,6 @@
 
     ![](/Screenshots/about.png)
 
-### **Install Guide**
-
-- [Olarila Installation](https://olarila.com/forum/viewforum.php?f=50) (easy and noob friendly)
-
-OR
-
-- [Vanilla Installation](https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/) (hard for beginners)
-
-### Pre-Installation
-
-I made the installer on Windows using **Olarila** Mojave image & used [Etcher.app](https://www.balena.io/etcher/) Download Olarila Image From the Forum with [Installation Guide](http://olarila.com/forum/viewtopic.php?f=51&t=6743): Or You can Use a Vanilla Guide but Olarila is faster but both are Vanilla. (***Olarila is highly recommended***)
-
-### First Proper BIOS Setting is needed for the macOS to boot:
-
-- Load optimised default
-- Disable CSM
-- Disable Fast
-- Enable Internal Graphics & VT-D
-- Disable only serial port (first option)
-
-Now **Read The More Detailed Installation Guide [Here](https://olarila.com/forum/viewtopic.php?f=50&t=8685).** *(as re-writing the same thing is waste of time)*
-=======
-Reddit: https://www.reddit.com/r/hackintosh/comments/b7l2gx/success_gigabyte_b360m_d3h_intel_core_i36100k_amd/
 
 - CPU: Intel i3 8100 
 - Motherboard: Gigabyte B360M-D3H 
@@ -51,9 +20,6 @@ Reddit: https://www.reddit.com/r/hackintosh/comments/b7l2gx/success_gigabyte_b36
 - Power supply: Gigabyte GP-PB500
 - Case: Cooler Master Masterbox Q300L
 - SSD: Crucial MX500 8GB x 2
-
-### What's Working?
-Everything.
 
 ### Install Guide
 Reddit Vanilla install: https://www.reddit.com/r/hackintosh/comments/9i2ntq/vanilla_guide_make_macosx_installer_from_windows/ + some custom tweaked EFI
