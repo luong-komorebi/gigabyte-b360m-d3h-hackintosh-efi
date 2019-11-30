@@ -246,7 +246,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>dart=0 keepsyms=1 debug=0x100 kext-dev-mode=1 -no_compat_check shikigva=40 -disablegfxfirmware</string>
+		<string>dart=0 uia_exclude=HS02;HS03;HS09;HS10;HS12;HS13;HS14;HS15;SS02;SS03 keepsyms=1 debug=0x100 kext-dev-mode=1 -no_compat_check shikigva=40 -disablegfxfirmware</string>
 		<key>CustomLogo</key>
 		<false/>
 		<key>Debug</key>

@@ -50,7 +50,7 @@ After Installing MacOS on your system copy my clover folder to your EFI Partitio
 
 ## Links:
 
- [How to Stay within 15 ports limit using UsbInjectall and Clover boot argument](https://olarila.com/forum/viewtopic.php?f=79&t=7370&fbclid=IwAR0aba59fTABiOx2hLesroLLHOTl8rAQQwQ-d0bpPm4LZ3UNovBrGdjyEb8)
+[How to Stay within 15 ports limit using UsbInjectall and Clover boot argument](https://olarila.com/forum/viewtopic.php?f=79&t=7370&fbclid=IwAR0aba59fTABiOx2hLesroLLHOTl8rAQQwQ-d0bpPm4LZ3UNovBrGdjyEb8)
 
 [[Guide] Easy Audio Solution with AppleAlc](https://olarila.com/forum/viewtopic.php?f=28&t=9788)
 
