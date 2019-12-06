@@ -601,9 +601,9 @@
 		<key>BooterConfig</key>
 		<string>0x28</string>
 		<key>CsrActiveConfig</key>
-		<string>0x3E7</string>
+		<string>0x3</string>
 		<key>MLB</key>
-		<string>C027023014NJ0PG1H</string>
+		<string>C02735403CDJ0PG1M</string>
 		<key>ROM</key>
 		<string>UseMacAddr0</string>
 	</dict>
@@ -620,7 +620,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C027023014NJ0PG1H</string>
+		<string>C02735403CDJ0PG1M</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -648,9 +648,11 @@
 		<key>ProductName</key>
 		<string>iMac18,3</string>
 		<key>SerialNumber</key>
-		<string>C02T37ZVJ1GJ</string>
+		<string>C02V9MY5J1GJ</string>
 		<key>SmUUID</key>
-		<string>D8ED9C79-09B6-413F-A359-2025CFC6977B</string>
+		<string>4AF98070-DE53-4C3A-A4EA-954EE1ACFA15</string>
+		<key>Trust</key>
+		<true/>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
